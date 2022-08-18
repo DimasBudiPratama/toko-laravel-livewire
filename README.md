@@ -8,6 +8,7 @@ Aplikasi Toko Laravel 8 Livewire
 
 Lalu ketik command dibawah ini
 - composer install
+- npm install && npm run dev
 - php artisan optimize:clear
 - php artisan key:generate (generate app key)
 - php artisan migrate (migrasi database)

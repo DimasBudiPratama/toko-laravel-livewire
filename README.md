@@ -13,6 +13,10 @@ Lalu ketik command dibawah ini
 - php artisan migrate (migrasi database)
 - php artisan db:seed
 
+Login
+email   : dimasbudipratama007@gmail.com
+password : 12345
+
 # Fitur
 Admin
 - Halaman Dashboard
